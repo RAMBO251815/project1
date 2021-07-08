@@ -46,14 +46,15 @@
             <img src="images/hero.svg" alt="">
             <div class="container">
                 <!-- Hero Title -->
-                <h1>The Spirit of<br>Digital Agency.</h1>
+                <h1 style="font-size:350%;">Thesis Database 
+                <br>System in Computer  
+                <br>Engineering</h1>
                 <!-- Hero Title Info -->
-                <p>Vestibulum ac diam sit amet quam vehicula elementum<br> amet est on dui. Nulla porttitor accumsan tincidunt.</p>
+                <p><br>ระบบฐานข้อมูลปริญญานิพนธ์ สาขา วิศวกรรมคอมพิวเตอร์ <br> Thesis Database System in Computer Engineering</p>
                 <div class="hero-btns">
                     <!-- Hero Btn First -->
-                    <a data-scroll href="#about-us">More About us</a>
-                    <!-- Hero Btn Second -->
-                    <a data-scroll href="#contact-us">Get in Touch.</a>
+                    <a  data-scroll href="#about-us">Search</a>
+                    
                 </div>
             </div>
         </div>
