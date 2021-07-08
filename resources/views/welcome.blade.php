@@ -50,7 +50,7 @@
                 <br>System in Computer  
                 <br>Engineering</h1>
                 <!-- Hero Title Info -->
-                <p><br>ระบบฐานข้อมูลปริญญานิพนธ์ สาขา วิศวกรรมคอมพิวเตอร์ <br> Thesis Database System in Computer Engineering</p>
+                <p><br>ระบบฐานข้อมูลปริญญานิพนธ์ สาขา วิศวกรรมคอมพิวเตอร์ <br> Thesis Database System in Computer Engineering.</p>
                 <div class="hero-btns">
                     <!-- Hero Btn First -->
                     <a  data-scroll href="#about-us">Search</a>
