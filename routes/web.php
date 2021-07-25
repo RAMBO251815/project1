@@ -24,3 +24,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/test', function () {
     return view('test');
 });
+
+Route::resource('post', 'PostController');
