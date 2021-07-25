@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -25,4 +26,4 @@ Route::get('/test', function () {
     return view('test');
 });
 
-Route::resource('post', 'PostController');
+Route::resource('post', \App\Http\Controllers\PostController::class);
