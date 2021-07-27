@@ -12,9 +12,9 @@
             "name": "category",
             "type": "select",
             "options": {
-                "technology": "Technology",
-                "tips": "Tips",
-                "health": "Health"
+                "software": "Software",
+                "hardware": "Hardware",
+                "other": "Other"
             }
         },
         {
